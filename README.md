@@ -4,6 +4,10 @@ A full-stack web application built with **ReactJS** and **Spring Boot** that all
 
 ---
 
+🔗 **Live Frontend**: [string-analyzer-by-vir.netlify.app](https://string-analyzer-by-vir.netlify.app)
+
+--- 
+
 ## 🚀 Features
 
 - ✅ Reverse a string
