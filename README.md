@@ -31,7 +31,7 @@ A full-stack web application built with **ReactJS** and **Spring Boot** that all
 ```
 string-analyzer/
 ├── string-analyzer-frontend/      # React + Tailwind frontend
-└── string-analyzer-backend/       # Spring Boot backend
+└── string-analyzer/               # Spring Boot backend
 ```
 
 ---
